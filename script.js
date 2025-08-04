@@ -278,7 +278,6 @@ class App {
         duration: 1,
       },
     });
-
     //using the public interface
     // workout.click();
   }
